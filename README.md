@@ -376,19 +376,4 @@ function Formulario() {
 
 ---
 
-# 🎯 Orden Recomendado para Aprender
-
-Si estás comenzando con React, estudia los Hooks en este orden:
-
-1. useState
-2. useEffect
-3. useContext
-4. useRef
-5. useReducer
-6. useMemo
-7. useCallback
-8. useLayoutEffect
-9. useImperativeHandle
-10. useId
-
-Con los primeros 5 Hooks podrás desarrollar más del 90% de las aplicaciones React modernas.
+*Victor Erazo. Generation Chile 2026*<<<<<
